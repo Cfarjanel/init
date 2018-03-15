@@ -18,9 +18,9 @@ interfaces -> configurer l'ensemble des interfaces système concernant le résea
 
 -------------------------------------------------------------------------------------------------------------------------
 
-bleu = commande
-vert = sortie de commande
-rouge = déduction écrite avec vos propres mots
+- bleu = commande
+- vert = sortie de commande
+- rouge = déduction écrite avec vos propres mots
 
 --------------------------------------------------------------------------------------------------------------------------
 
