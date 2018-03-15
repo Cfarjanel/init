@@ -1,0 +1,1 @@
+ifconfig en0 | cut -d: -f10 | grep inet
