@@ -17,7 +17,7 @@ netstats -> affiche connections sur serveur actuel, ports utilisés etc.
 man traceroute -> affiche d'un point a à un point b le trajet d'un paquet (ping version google maps)
 
 
-fichiers  de configuration :
+# fichiers  de configuration :
 
 hosts -> definir une ip, un nom, manuellement
 
