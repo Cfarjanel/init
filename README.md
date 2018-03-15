@@ -24,10 +24,10 @@ interfaces -> configurer l'ensemble des interfaces système concernant le résea
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Network :
+- Network :
 
 
-System :
+- System :
 
 
-Scripting :
+- Scripting :
