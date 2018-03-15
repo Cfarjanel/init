@@ -23,7 +23,7 @@ hosts -> definir une ip, un nom, manuellement
 
 networks -> donner un nom logique à un réseau
 
-host.conf -> qui résout quoi ?
+host.conf -> qui résoud quoi ?
 
 resolv.conf -> défini serveurs de noms (dns)
 
@@ -38,9 +38,10 @@ interfaces -> configurer l'ensemble des interfaces système concernant le résea
 --------------------------------------------------------------------------------------------------------------------------
 
 - Network :
-
+11, 13, 15, 16
 
 - System :
-
+*
 
 - Scripting :
+*
