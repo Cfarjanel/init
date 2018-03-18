@@ -14,7 +14,8 @@ ping -> envoie un paquet vers un autre serveur
 
 netstats -> affiche connections sur serveur actuel, ports utilisés etc.
 
-man traceroute -> affiche d'un point a à un point b le trajet d'un paquet (ping version google maps)
+man traceroute -> affiche d'un point a à un point b le trajet d'un paquet 
+(ping version google maps)
 
 
 # fichiers  de configuration :
@@ -38,10 +39,11 @@ interfaces -> configurer l'ensemble des interfaces système concernant le résea
 --------------------------------------------------------------------------------------------------------------------------
 
 - Network :
+12/16
 11, 13, 15, 16
 
 - System :
-*
+19/19
 
 - Scripting :
-*
+00/05
