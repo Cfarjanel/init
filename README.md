@@ -39,11 +39,10 @@ interfaces -> configurer l'ensemble des interfaces système concernant le résea
 --------------------------------------------------------------------------------------------------------------------------
 
 - Network :
-13/16
-13, 15, 16
+16/16
 
 - System :
 19/19
 
 - Scripting :
-00/05
+04/05

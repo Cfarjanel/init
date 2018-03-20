@@ -1,0 +1,10 @@
+#!/bin/bash
+#crontab -e
+#0 0 * * *
+
+md5sum /etc/crontab > $HOME/crontab.md5
+if ! md5sum -c $HOME/crontab.md5 ; then
+	mail -s "Something was modified" root@debian
+	md5sum /etc/crontab > $HOME/crontab.md5
+	echo "email send"
+fi

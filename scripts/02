@@ -1,0 +1,4 @@
+#! /bin/bash
+#crontab -e
+#0 4 * * 1
+sudo apt update && sudo apt upgrade -y >> /var/log/update_script.log
