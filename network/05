@@ -1,1 +1,1 @@
-ping slash16.org -c 1 | grep -e from
+ping slash16.org -c 1 | grep -e from | cut -d: -f1 | cut -dm -f2

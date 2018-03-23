@@ -1,1 +1,1 @@
-netstat -rm | cut -d: -f5 | grep -e default
+netstat -r | grep -e default | cut -dt -f2 | head -1
