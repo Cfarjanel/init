@@ -4,7 +4,7 @@
 
 md5sum /etc/crontab > $HOME/crontab.md5
 if ! md5sum -c $HOME/crontab.md5 ; then
-	mail -s "Something was modified" root@debian
+	mail -s "Something was modified" root
 	md5sum /etc/crontab > $HOME/crontab.md5
-	echo "email send"
+	echo "email sent"
 fi
